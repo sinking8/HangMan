@@ -6,7 +6,7 @@ One of the interesting problems in NLP for healthcare is in handling medical cod
 
 ## Example 
 **Input masked word** = DEM_G_A_HY </br>
-**Description** = is the statistical study of populations, especially human beings.
+**Description** = is the statistical study of populations, especially human beings. </br>
 **Model prediction/output** = DEMOGRAPHY
 
 
